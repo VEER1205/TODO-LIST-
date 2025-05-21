@@ -18,7 +18,7 @@ A sleek, modern Todo List application built with **Python** and **customtkinter*
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.11
 - [customtkinter](https://github.com/TomSchimansky/CustomTkinter)
 
 ### Installation
